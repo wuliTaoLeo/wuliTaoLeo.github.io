@@ -95,10 +95,11 @@ include:
 exclude:
 ignore:
 
+  
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: hexo-theme-yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
